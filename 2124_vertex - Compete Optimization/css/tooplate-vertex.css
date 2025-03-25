@@ -748,12 +748,13 @@
     }
     }
     @font-face {
-        font-family: 'MyCustomFont';
-        src: url('../fontawesome/webfonts/BebasNeue-Regular.woff2') format('woff2');
-        font-display: swap;
-      }
-      
-      body {
-        font-family: 'MyCustomFont', sans-serif;
-      }
+    font-family: 'BebasNeue';
+    src: url('../fontawesome/webfonts/BebasNeue-Regular.woff2') format('woff2');
+    font-display: swap; /* Ensures text is visible while font loads */
+}
+
+body {
+    font-family: 'BebasNeue', sans-serif;
+}
+
       
