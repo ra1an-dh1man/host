@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-site-cache-v1';
+const CACHE_NAME = 'my-site-cache-v2'; // <-- Increment this on file change
 const URLS_TO_CACHE = [
   '/', // your index.html
   '/styles.css',
