@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 20px;
+    background-color: rgb(131, 205, 131);
+    body {
+        text-transform: uppercase;
+      }
+      
+  }
+  h1, h2 {
+    margin-top: 40px;
+  }
+
+  @font-face {
+    font-family: 'Bebas Neue Subset';
+    src: url('BebasNeue-Subset.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Bebas Neue Subset', sans-serif;
+  }
+  
