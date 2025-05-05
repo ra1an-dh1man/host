@@ -4,9 +4,8 @@ body {
     margin: 0;
     padding: 0 20px;
     background-color: rgb(131, 205, 131);
-    body {
-        text-transform: uppercase;
-      }
+    text-transform: uppercase;
+      
       
   }
   h1, h2 {
