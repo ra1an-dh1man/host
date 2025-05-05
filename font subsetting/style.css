@@ -14,13 +14,14 @@ body {
   }
 
   @font-face {
-    font-family: 'Bebas Neue Subset';
-    src: url('BebasNeue-Subset.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-  body {
-    font-family: 'Bebas Neue Subset', sans-serif;
-  }
+  font-family: 'Bebas Neue Subset';
+  src: url('BebasNeue-Subset.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Bebas Neue Subset', sans-serif;
+}
+
   
